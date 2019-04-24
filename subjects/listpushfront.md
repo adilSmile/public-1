@@ -34,7 +34,7 @@ import (
 )
 
 func main() {
-	
+
 	link := &list{}
 
 	piscine.ListPushFront(link, "Hello")

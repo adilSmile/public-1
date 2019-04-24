@@ -6,7 +6,6 @@ Write a function `ListRemoveIf` that removes all elements that are equal to the 
 
 - Use pointers wen ever you can.
 
-
 ### Expected function and structure
 
 ```go

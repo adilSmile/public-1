@@ -1,4 +1,5 @@
 ## enigma
+
 ### Instructions
 
 Write a function called `Enigma` that receives poiters to functions and move its values around to hide them

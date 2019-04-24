@@ -1,4 +1,4 @@
- # Boolean
+## Boolean
 
 ### Instructions
 
@@ -37,10 +37,13 @@ func main() {
 ```
 
 ### Expected output
-```go 
+
+```go
 I have an even number of arguments
 ```
+
 ### Or
+
 ```go
 I have an odd number of arguments
 ```

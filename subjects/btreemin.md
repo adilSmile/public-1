@@ -1,4 +1,5 @@
 ## btreemin
+
 ### Instructions
 
 Write a function, BTreeMin, that returns the node with the minimum value in the tree given by root
@@ -42,5 +43,5 @@ And its output :
 student@ubuntu:~/student/btreemin$ go build
 student@ubuntu:~/student/btreemin$ ./btreemin
 1
-student@ubuntu:~/student/btreemin$ 
+student@ubuntu:~/student/btreemin$
 ```

@@ -1,4 +1,5 @@
 ## repeatalpha
+
 ### Instructions
 
 Write a program called repeat_alpha that takes a string and display it
@@ -25,5 +26,5 @@ student@ubuntu:~/student/repeatalpha$ ./repeatalpha | cat -e
 $
 student@ubuntu:~/student/repeatalpha$ ./repeatalpha "" | cat -e
 $
-student@ubuntu:~/student/repeatalpha$ 
+student@ubuntu:~/student/repeatalpha$
 ```

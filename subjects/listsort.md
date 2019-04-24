@@ -4,7 +4,7 @@
 
 Write a function `ListSort` that sorts the linked list by ascending order.
 
-- This time you only will have the `Nodee` structure. 
+- This time you only will have the `Nodee` structure.
 
 - Try to use recursive.
 

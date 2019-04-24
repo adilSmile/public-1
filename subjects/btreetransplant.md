@@ -1,4 +1,5 @@
 ## btreetransplant
+
 ### Instructions
 
 In order to move subtrees around within the binary search tree, write a function, BTreeTransplant, which replaces the subtree started by node with the node called 'rplc' in the tree given by root.
@@ -47,5 +48,5 @@ student@ubuntu:~/student/btreetrandsplant$ ./btreetransplant
 4
 5
 7
-student@ubuntu:~/student/btreetrandsplant$ 
+student@ubuntu:~/student/btreetrandsplant$
 ```

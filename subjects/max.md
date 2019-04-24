@@ -1,4 +1,5 @@
 ## max
+
 ### Instructions
 
 Write a function, Max, that returns the maximum value in a slice of integers
@@ -40,5 +41,5 @@ And its output :
 student@ubuntu:~/student/max$ go build
 student@ubuntu:~/student/max$ ./max
 123
-student@ubuntu:~/student/max$ 
+student@ubuntu:~/student/max$
 ```

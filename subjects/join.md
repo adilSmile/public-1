@@ -1,4 +1,5 @@
 ## join
+
 ### Instructions
 
 Write a function, Join, that returns the elements of a slice strings (arstr) join together in one string. Using the string 'sep' as a separator between each element of the array
@@ -40,5 +41,5 @@ And its output :
 student@ubuntu:~/student/join$ go build
 student@ubuntu:~/student/join$ ./join
 hello--how--are--you
-student@ubuntu:~/student/join$ 
+student@ubuntu:~/student/join$
 ```

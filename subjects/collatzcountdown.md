@@ -1,4 +1,5 @@
 ## collatzcountdown
+
 ### Instructions
 
 Write a function, CollatzCountdown, that returns the number of steps to reach 1 using the collatz countdown.
@@ -38,5 +39,5 @@ And its output :
 student@ubuntu:~/student/collatzcountdown$ go build
 student@ubuntu:~/student/collatzcountdown$ ./collatzcountdown
 10
-student@ubuntu:~/student/collatzcountdown$ 
+student@ubuntu:~/student/collatzcountdown$
 ```

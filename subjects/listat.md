@@ -4,7 +4,7 @@
 
 Write a function `ListAt` that haves one pointer to the list, `l`, and an `int` as parameters. This function should print a `Node` of the linked list, depending on the number, `nbr`.
 
-- In case of error it should print `nil` 
+- In case of error it should print `nil`
 
 ### Expected function and structure
 

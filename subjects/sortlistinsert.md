@@ -4,7 +4,7 @@
 
 Write a function `SortListInsert` that inserts `Data_ref` in the linked list, but it as to remain sorted in ascending order.
 
-- The list as to be alredy sorted. 
+- The list as to be alredy sorted.
 
 - Use pointers when ever you can.
 
