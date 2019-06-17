@@ -12,6 +12,8 @@ Write a program that displays, on the standard output, only the content of the f
   - `File name missing`.
   - `Too many arguments`.
 
+- The program must be submitted inside a folder with the name `displayfile`.
+
 ### Output:
 
 ```console
